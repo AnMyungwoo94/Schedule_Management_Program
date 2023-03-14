@@ -1,4 +1,4 @@
-# Schedule management Program 
+# Schedule management Program(일정관리 프로그램)
 
 ## Outline
 Java와 MySQL를 활용하여 일정을 관리할 수 있는 프로그램
