@@ -13,7 +13,7 @@ Creating a amusement Schedule management program using Java and MySQL
 | Github | https://github.com/AnMyungwoo94/ScheduleProgram_repo |
 
 ## Periods of Development
-2022-03-05(Sat) ~ 2022-10-07(Mon)
+2023-10-03 ~ 2023-10-05
 
 ## Feature Summary and Description
 ![0  nember_Upload](https://user-images.githubusercontent.com/126849689/224303174-24b3cc66-8e11-4dc9-937c-19dcaaa5b90b.png)
