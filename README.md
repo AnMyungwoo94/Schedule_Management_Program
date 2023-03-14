@@ -1,7 +1,7 @@
 # Schedule management Program 
 
 ## Outline
-Creating a amusement Schedule management program using Java and MySQL
+Java와 MySQL를 활용하여 일정을 관리할 수 있는 프로그램
 
 ## Development Environment
 | Category | Content |
